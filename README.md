@@ -1,13 +1,3 @@
-(setq markdown-xhtml-header-content
-"<style type='text/css'>
-    .icons-list {
-        height:max-content;
-        display:flex;
-        flex-flow:row wrap;
-        justify-content:flex-start;
-    }
-</style>")
-
 # Hi there 👋 I'm Jason (JSON)
 
 ### I'm a passionate .NET Developer, GitKraken Ambassador, Mentor and Father
@@ -42,34 +32,34 @@
 
 <p class="icons-list">
     <a href="https://codepen.io/@cptcrunchy" target="blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@cptcrunchy" style="padding:0 10px;width:50px;height:50px;" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@cptcrunchy" height="50" />
     </a>
     <a href="https://dev.to/@cptcrunchy" target="blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@cptcrunchy" style="padding:0 10px;width:50px;height:50px;" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@cptcrunchy" height="50" />
     </a>
     <a href="https://twitter.com/@cptcrunch_" target="blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@cptcrunch_" style="padding:0 10px;width:50px;height:50px;" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@cptcrunch_" height="50" />
     </a>
     <a href="https://linkedin.com/in/jgutierrez84" target="blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jgutierrez84" style="padding:0 10px;width:50px;height:50px;" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jgutierrez84" height="50" />
     </a>
     <a href="https://medium.com/@jasong84" target="blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jasong84" style="padding:0 10px;width:50px;height:50px;" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jasong84" height="50" />
     </a>
 </p>
 
 ### Languages and Tools:
 
 <p style="display:flex;flex-flow: row wrap; height: max-content;justify-content: space-evenly;">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" style="padding:0;width:50px;height:50px;" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" style="padding:0;width:50px;height:50px;" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" style="padding:0;width:50px;height:50px;" />
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" style="padding:0;width:50px;height:50px;"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" style="padding:0;width:50px;height:50px;"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="padding:0;width:50px;height:50px;"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" style="padding:0;width:50px;height:50px;"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="padding:0;width:50px;height:50px;"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" style="padding:0;width:50px;height:50px;"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" height="50" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" height="50" />
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="50"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" height="50"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="50"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" height="50"/>
 </p>
 
 ### Blogs posts
