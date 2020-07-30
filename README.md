@@ -1,3 +1,13 @@
+(setq markdown-xhtml-header-content
+"<style type='text/css'>
+    .icons-list {
+        height:max-content;
+        display:flex;
+        flex-flow:row wrap;
+        justify-content:flex-start;
+    }
+</style>")
+
 # Hi there 👋 I'm Jason (JSON)
 
 ### I'm a passionate .NET Developer, GitKraken Ambassador, Mentor and Father
@@ -30,7 +40,7 @@
 
 ### Connect with me:
 
-<p style="height:max-content;display:flex;flex-flow:row wrap;justify-content:flex-start;">
+<p class="icons-list">
     <a href="https://codepen.io/@cptcrunchy" target="blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@cptcrunchy" style="padding:0 10px;width:50px;height:50px;" />
     </a>
