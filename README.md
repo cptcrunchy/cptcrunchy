@@ -64,6 +64,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuring Cloudinary with Strapi 3.1.4](https://medium.com/@jasong84/configuring-cloudinary-with-strapi-3-1-4-6dbddc721617?source=rss-1cf8c76fd0fc------2)
 - [How to setup a temporary public URL for localhost (Ngrok)](https://medium.com/@jasong84/how-to-setup-a-temporary-public-url-for-localhost-ngrok-6634c1d21522?source=rss-1cf8c76fd0fc------2)
 - [Don’t Be Scared of Coding](https://medium.com/@jasong84/dont-be-scared-of-coding-80566d374fb7?source=rss-1cf8c76fd0fc------2)
 <!-- BLOG-POST-LIST:END -->
