@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on: 
  
-- [Devmap Podcast](http://devmappodcast.com/)
+- [Devmap Podcast](http://devmappodcast.dev/)
  
 - 🌱 I’m currently learning
 
