@@ -22,7 +22,10 @@
 - ⚡ Fun fact **I've been around the world twice**
 
 <br />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cptcrunchy&layout=compact)](https://github.com/cptcrunchy/github-readme-stats) <img src="https://wearetribu.com/wp-content/uploads/2019/01/codeup-duck-min.png">
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cptcrunchy&theme=green_nur&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cptcrunchy&show_icons=true&theme=tokyonight)
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=cptcrunchy&label=Profile%20views&color=0e75b6&style=flat-square" alt="cptcrunchy" />
 </p>
