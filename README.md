@@ -23,17 +23,11 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cptcrunchy&layout=compact)](https://github.com/cptcrunchy/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cptcrunchy&layout=compact&theme=ocean_dark" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cptcrunchy&theme=green_nur&hide_border=true)](https://git.io/streak-stats)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=cptcrunchy&theme=green_nur&hide_border=true" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cptcrunchy&show_icons=true&theme=tokyonight)
-
-<br />
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cptcrunchy&show_icons=true" alt="cptcrunchy" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=cptcrunchy&show_icons=true&theme=ocean_dark" />
 
 <br />
 
