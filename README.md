@@ -1,3 +1,5 @@
+<img src="Ambassador-proud_Social-01.png" />
+<hr />
 # Hi there 👋 I'm Jason (JSON)
 
 ### I'm a passionate .NET Developer, GitKraken Ambassador, Mentor and Father
