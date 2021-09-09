@@ -22,14 +22,15 @@
 - ⚡ Fun fact **I've been around the world twice**
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cptcrunchy&layout=compact)](https://github.com/cptcrunchy/github-readme-stats) <img src="https://wearetribu.com/wp-content/uploads/2019/01/codeup-duck-min.png">
-<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cptcrunchy&layout=compact)](https://github.com/cptcrunchy/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cptcrunchy&theme=green_nur&hide_border=true)](https://git.io/streak-stats)
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=cptcrunchy&label=Profile%20views&color=0e75b6&style=flat-square" alt="cptcrunchy" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cptcrunchy&show_icons=true&theme=tokyonight)
+
 <br />
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=cptcrunchy&show_icons=true" alt="cptcrunchy" />
 </p>
@@ -67,3 +68,6 @@
 - [Don’t Be Scared of Coding](https://medium.com/@jasong84/dont-be-scared-of-coding-80566d374fb7?source=rss-1cf8c76fd0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=cptcrunchy&label=Profile%20views&color=0e75b6&style=flat-square" alt="cptcrunchy" />
+</p>
