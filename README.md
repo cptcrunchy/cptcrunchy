@@ -94,6 +94,9 @@
 - [Don’t Be Scared of Coding](https://medium.com/@jasong84/dont-be-scared-of-coding-80566d374fb7?source=rss-1cf8c76fd0fc------2)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="right">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=cptcrunchy&label=Profile%20views&color=0e75b6&style=flat-square" alt="cptcrunchy" />
 </p>
+
+This repo was updated using the Legendary Tool Gitkraken
+# ![elmoustaphahoueibib](https://github.com/elmoustaphahoueibib/elmoustaphahoueibib/blob/master/GitKraken-Legendary%20Git%20Tools-teal.svg)
