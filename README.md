@@ -2,18 +2,19 @@
 <hr />
 # Hi there 👋 I'm Jason (JSON)
 
-### I'm a passionate .NET Developer, GitKraken Ambassador, Mentor and Father
+### I'm a SvelteKit enthusiast | .NET Developer | GitKraken Ambassador | Mentor | Father
 
 💬 Ask me about [GitKraken](https://www.gitkraken.com/invite/qazvVMM6)
 
 🔭 I’m currently working on: 
  
-- [Devmap Podcast](http://devmappodcast.dev/)
+- Client projects that require integration with Prisma or Strapi.
  
-- 🌱 I’m currently learning
-
-- [Blazor](https://blazor.net/)
+- 🌱 I’m currently improving my knowledge on:
 - [Svelte](https://svelte.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [Blazor](https://blazor.net/)
 
 - 👯 I’m looking to collaborate on **more Open Source Projects**
 
